@@ -1,4 +1,4 @@
-FROM public.ecr.aws/amazonlinux/amazonlinux:latest
+FROM public.ecr.aws/docker/library/hello-world:latest
 
 # Install dependencies
 RUN yum update -y && \
