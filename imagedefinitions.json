@@ -1,6 +1,6 @@
 [
   {
-    "name": "hello-world",
-    "imageUri": "165139713894.dkr.ecr.us-east-1.amazonaws.com/bill/hello-world:hello-world"
+    "name": "amazonlinux",
+    "imageUri": "165139713894.dkr.ecr.us-east-1.amazonaws.com/bill/hello-world"
   }
 ]
