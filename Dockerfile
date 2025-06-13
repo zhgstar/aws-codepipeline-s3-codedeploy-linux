@@ -1,6 +1,6 @@
 FROM public.ecr.aws/amazonlinux/amazonlinux:latest
 
-LABEL name = "hello-world"
+LABEL name = "hello"
 
 # Install dependencies
 RUN yum update -y && \
