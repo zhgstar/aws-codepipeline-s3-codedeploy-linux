@@ -1,6 +1,6 @@
 [
   {
     "name": "hello",
-    "imageUri": "165139713894.dkr.ecr.us-east-1.amazonaws.com/hello-world"
+    "imageUri": "165139713894.dkr.ecr.us-east-1.amazonaws.com/bill/demo"
   }
 ]
